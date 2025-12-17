@@ -1,4 +1,4 @@
- // Ключ для хранения данных в localStorage
+// Ключ для хранения данных в localStorage
     const STORAGE_KEY = 'food_expiry_items_v1';
 
     // Получаем ссылки на элементы DOM
@@ -221,4 +221,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 });
+
+
 
